@@ -3,7 +3,7 @@ import "./TodoList.css";
 
 export default function TodoList() {
 
-    let [todos, setTodos] = useState(["Code"]);
+    let [todos, setTodos] = useState(["Codegit "]);
     let [newTodo, setNewTodo] = useState("");
 
     let addNewTask = () => {
