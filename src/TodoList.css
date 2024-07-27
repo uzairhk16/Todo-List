@@ -1,0 +1,28 @@
+.todolist {
+    height: 23rem;
+    width: 18rem !important;
+    border-radius: 1rem;
+    background-color: #405D72;
+}
+
+.inputclass {
+ border-radius: 1rem 0 0 1rem;
+ height: 2rem !important;
+
+}
+button {
+    background-color: #698474;
+    height: 2.4rem !important;
+    margin-left: 3px ;
+    margin-top: 20px;
+    border-radius: 0 1rem 1rem 0;
+    padding: 0.6em 1.2em;
+    font-weight: 500;
+    font-size: 0.9em;
+}
+.inpp {
+    margin-bottom: 1.4rem;
+}
+li {
+    margin-right: 2rem;
+}
