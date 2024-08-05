@@ -1,6 +1,6 @@
 .todolist {
-    height: 23rem;
-    width: 18rem !important;
+    height: 28rem;
+    width: 22rem !important;
     border-radius: 1rem;
     background-color: #405D72;
 }
@@ -25,4 +25,8 @@ button {
 }
 li {
     margin-right: 2rem;
+}
+
+ul {
+    margin-top: -1rem;
 }
